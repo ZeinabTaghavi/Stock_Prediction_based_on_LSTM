@@ -5,4 +5,4 @@ in this code, by useing [LSTM](https://en.wikipedia.org/wiki/Long_short-term_mem
 
 this is architecture:
 
-![](https://github.com/ZeinabTaghavi/Stock_Prediction_based_on_LSTM/blob/master/Architecture_Img/Screen%20Shot%202019-12-05%20at%208.15.17%20PM.png){:height="50%" width="50%"}
+<img src="https://github.com/ZeinabTaghavi/Stock_Prediction_based_on_LSTM/blob/master/Architecture_Img/Screen%20Shot%202019-12-05%20at%208.15.17%20PM.pnge" width="100" height="100">
